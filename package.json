@@ -1,0 +1,27 @@
+{
+	"name": "bb-code-snippets",
+	"displayName": "bb-code-snippets",
+	"description": "Snippets for Bumblebee C# Framework",
+	"publisher": "SerhiiSavchenko",
+	"version": "0.0.2",
+	"engines": {
+		"vscode": "^1.56.0"
+	},
+	"categories": [
+		"Snippets"
+	],
+	"contributes": {
+		"snippets": [
+			{
+				"language": "csharp",
+				"path": "./snippets/snippets.code-snippets"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "80d4fc1c-be12-42d8-b599-905509485448",
+		"publisherId": "82b30ea7-81e2-4a6b-878d-51144ab25c91",
+		"publisherDisplayName": "Serhii",
+		"installedTimestamp": 1622791825525
+	}
+}
